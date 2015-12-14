@@ -7,5 +7,5 @@ script:
  - python sample.py
 notifications:
  email:
-  varsha@shippab;le.com
+  varsha@shippable.com
 archive: true

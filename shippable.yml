@@ -1,7 +1,7 @@
 language: python
 python:
  - "2.7"
-#buildimage: shippable/minv2
+buildimage: drydock/u12pytpls: tip
 install: pip install --use-mirrors -r requirements.txt
 script:
  - python sample.py
